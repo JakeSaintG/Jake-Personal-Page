@@ -1,9 +1,10 @@
 ## jakesaintg.github.io
 
-### This is a simple portfolio page for Jake St. Germain!
+### This is VERSION 1 of a simple portfolio page for Jake St. Germain!
 
 ### Description
-This page serves as a home page for Jake St. Germain. Here you will find information regarding yours truly as well as some of my thoughts and experiences. The goal
+This page serves as an archived home page for Jake St. Germain. Development on this repo has stopped and you can find any updates to this page at jakesaintg.github.io.
+Here you will find information regarding yours truly as well as some of my thoughts and experiences. The goal
 of this page is showcase my skills as a web-developer through project showcases. This site has also been hand coded by me! You will also find ways to contact me via social media or via email.
 
 ### Special Instructions
